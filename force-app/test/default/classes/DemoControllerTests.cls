@@ -16,4 +16,5 @@ private class DemoControllerTests {
         DemoController demo = new DemoController();
         System.assertEquals(demo.getAppVersion(), '0.0.0');
     }
+    // 1
 }
