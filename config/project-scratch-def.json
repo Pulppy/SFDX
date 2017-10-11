@@ -1,0 +1,12 @@
+{
+	"country": "US",
+	"edition": "Developer",
+	"orgPreferences": {
+		"enabled": [
+			"S1DesktopEnabled"
+		],
+		"disabled": []
+	},
+	"orgName": "KhoiDev-1",
+	"adminEmail": "khoitest1@yopmail.com"
+}

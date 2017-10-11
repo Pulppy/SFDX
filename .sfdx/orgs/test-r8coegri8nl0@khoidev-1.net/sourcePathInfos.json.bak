@@ -1,0 +1,223 @@
+[
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507535765896,
+            "changeTime": 1507535765896,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507607687080,
+            "changeTime": 1507607687080,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507535785734,
+            "changeTime": 1507535785734,
+            "contentHash": "0803afd433bedf4fb3c621888196f3a590a9c016",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507608682772,
+            "changeTime": 1507608682772,
+            "contentHash": "eaaa7122fb784b260d3b5df7f3cebce75eedc0c3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\test",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\test",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507535765896,
+            "changeTime": 1507535765896,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\test\\default",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\test\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507535765906,
+            "changeTime": 1507535765906,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\test\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\test\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507535765906,
+            "changeTime": 1507535765906,
+            "contentHash": "5144f1861400212c6d4a274d925b0ff04bede7bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507607671186,
+            "changeTime": 1507607671186,
+            "contentHash": "76e289d2d4d831eba496e8b44dc7ba02f2756b15",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507535767486,
+            "changeTime": 1507535767486,
+            "contentHash": "8321bf938eae81fc8c55f4bafb5c03e963cd1dbb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\test\\default\\classes\\DemoControllerTests.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\test\\default\\classes\\DemoControllerTests.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 653,
+            "modifiedTime": 1507631483764,
+            "changeTime": 1507631483764,
+            "isWorkspace": false,
+            "contentHash": "12dc84af33edd0000600a1d9ca52a72cebf3cedd"
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\test\\default\\classes\\DemoControllerTests.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\test\\default\\classes\\DemoControllerTests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1507520643051,
+            "changeTime": 1507535765906,
+            "contentHash": "36653e7488879c0ed6d7bd08805295fa678ca822",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\classes\\DemoController.cls",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\classes\\DemoController.cls",
+            "isDirectory": false,
+            "size": 957,
+            "modifiedTime": 1507520643047,
+            "changeTime": 1507535767466,
+            "contentHash": "d0ebcdcf7038d0fe886fcbe5b60d1e90d1d40951",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\classes\\DemoController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\classes\\DemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 177,
+            "modifiedTime": 1507520643048,
+            "changeTime": 1507535767476,
+            "contentHash": "d1db78898fac7cd8e7bf53bbf5f457c59318d685",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\pages\\DemoPage.page",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\pages\\DemoPage.page",
+            "isDirectory": false,
+            "size": 1589,
+            "modifiedTime": 1507520643049,
+            "changeTime": 1507535767476,
+            "contentHash": "40b01ddd0e7400a56f2aec05d63fa7cacbe5cdf3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\pages\\DemoPage.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\khoinguy\\Application Data\\Salesforce IDE\\workspace\\Demo-App\\force-app\\main\\default\\pages\\DemoPage.page-meta.xml",
+            "isDirectory": false,
+            "size": 281,
+            "modifiedTime": 1507520643049,
+            "changeTime": 1507535767486,
+            "contentHash": "191b7b49953e47befa9a2b51cc0cd52158c35eb0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ]
+]
